@@ -1,0 +1,21 @@
+# C++ executable
+sysguard
+
+# Build files
+*.o
+*.ko
+*.mod
+*.mod.c
+*.cmd
+
+# Kernel module generated files
+Module.symvers
+modules.order
+.mod*
+.tmp_versions/
+
+# Logs
+logs/*.log
+
+# Editor files
+.vscode/
